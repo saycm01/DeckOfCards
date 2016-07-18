@@ -1,0 +1,6 @@
+C:\Users\Callum\Documents\C#\FirstAttemptOfProject\bin\Debug\FirstAttemptOfProject.exe.config
+C:\Users\Callum\Documents\C#\FirstAttemptOfProject\bin\Debug\FirstAttemptOfProject.exe
+C:\Users\Callum\Documents\C#\FirstAttemptOfProject\bin\Debug\FirstAttemptOfProject.pdb
+C:\Users\Callum\Documents\C#\FirstAttemptOfProject\obj\Debug\FirstAttemptOfProject.csprojResolveAssemblyReference.cache
+C:\Users\Callum\Documents\C#\FirstAttemptOfProject\obj\Debug\FirstAttemptOfProject.exe
+C:\Users\Callum\Documents\C#\FirstAttemptOfProject\obj\Debug\FirstAttemptOfProject.pdb
